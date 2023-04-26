@@ -60,6 +60,7 @@ hr{
     width: 25%;
     float: left;
     margin-right: 30px;
+    
 }
 .skill-row{
     width: 50%;
@@ -77,6 +78,7 @@ hr{
     width: 25%;
     float: left;
     margin-right: 30px;
+    border-radius: 50%;
 
 }
 .middle-container{
