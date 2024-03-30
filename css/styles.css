@@ -82,6 +82,9 @@ hr{
     border-radius: 50%;
 
 }
+li{
+    color:black;
+}
 .middle-container{
    margin: 10px 0;
 }
